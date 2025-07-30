@@ -20,9 +20,9 @@
 
 ### 👨‍💻 About Me
 
-- 🌱 I’m currently focusing on **Full Stack Development**  
+- 🌱 I am currently focusing on **Full Stack Development**  
 - 💻 Skilled in building **scalable backend systems and interactive frontends**  
-- 📚 Strong understanding of **DSA, OOPs, and Database design**  
+- 📚 Strong understanding of **DSA, OOPs, CS Fundamentals & Database design**  
 - ⚡ Passionate about **learning, problem-solving, and contributing to Open Source**  
 
 ---
@@ -30,7 +30,7 @@
 ### 🌐 Connect With Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/adiiidubey" target="_blank">
+  <a href="https://www.linkedin.com/in/adiiidubey" target="_self">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:adityadubey8953@gmail.com">
