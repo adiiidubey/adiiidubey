@@ -58,7 +58,7 @@
 ## 📊 Activity Graph
 <p align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=nitinyadav107&theme=react-dark&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=adiiidubey&theme=react-dark&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" 
     alt="Activity Graph" 
   />
 </p>
