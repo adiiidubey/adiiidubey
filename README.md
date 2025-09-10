@@ -104,17 +104,4 @@ Noida Institute of Engineering and Technology, Greater Noida
 
 ---
 
-# 📜 Certifications
-
- 🟦 Java Programming Fundamentals – Infosys Springboard  
- ⚛️ React.js – Infosys Springboard  
- 💛 JavaScript – Infosys Springboard  
- 🎨 CSS – Infosys Springboard  
- 🟥 HTML – Infosys Springboard  
-
-</div>
-
-
----
-
 
