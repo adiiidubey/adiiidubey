@@ -92,31 +92,6 @@
 
 
 
----
-## 🏆 Featured Projects  
-
-<div align="center">
-
-### 🛒 LIBAS - E-commerce Platform  
-[![E-commerce](https://img.shields.io/badge/🛒-E_commerce_Platform-blue?style=for-the-badge)](https://ecommercefb.onrender.com/)  
-
-🔧 **Tech:** MERN | Razorpay | JWT | OAuth  
-✨ **Features:** Product Search | Sorting | Secure Payments | Admin Dashboard  
-📈 **Impact:** Efficient handling of 150+ products & faster load times  
-
----
-
-### 💬 Real-Time Chat Application  
-[![Chat App](https://img.shields.io/badge/💬-Chat_Application-green?style=for-the-badge)](https://chatappfb-1.onrender.com/)  
-
-🔧 **Tech:** React.js | Node.js | Socket.io | JWT | Bcrypt  
-✨ **Features:** Real-time messaging | AI Chatbot | Secure Authentication  
-📈 **Impact:** Seamless cross-device chat experience  
-
-</div>
-
-
----
 
 
 <div align="center">
