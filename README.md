@@ -69,7 +69,7 @@
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/adiiidubey?theme=dark&ext=contest)](https://leetcode.com/adiiidubey)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/nitinyadav107?theme=dark&ext=contest)](https://leetcode.com/adiiidubey)
 
 ---
 
@@ -89,19 +89,5 @@
 
 </div>
 
-
-
-
-
-
-<div align="center">
-
-# 🏫 Education
-
-**B.Tech Computer Science Engineering**  
-Noida Institute of Engineering and Technology, Greater Noida  
-📆 2022 - 2026 | 🎯 CGPA: 8.72
-
----
 
 
